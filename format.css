@@ -99,3 +99,26 @@ body
     text-align: center;
     font-size: 0.8em;
 }
+
+.cv
+{
+    display: flex;
+    justify-content: center;
+}
+
+.chronicle
+{
+    width: 50%;
+    margin-right: 1em;
+}
+
+.skills
+{
+    margin-left: 1em;
+}
+
+.cvfoot
+{
+    font-size: 0.8em;
+    text-align: center;
+}
