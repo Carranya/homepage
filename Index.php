@@ -16,9 +16,7 @@
     <div class="menu">
         <p>
         <a href="Index.php">Home</a><br>
-        <a href="Index.php?page=karriere">Karriere</a><br>
         <a href="Index.php?page=project">Projekte</a><br>
-        <a href="Index.php?page=cv">Lebenslauf</a><br>
         <a href="Index.php?page=about">Über mich</a><br>
         <a href="Index.php?page=contact">Kontakt</a><br>
     </div>
@@ -41,7 +39,9 @@
 </div>
 
 <div class = "foot">
-        <p>Last Update: 09. August 2022</p>
+    <?php
+        include "foot.php";
+    ?>
 </div>
 
 

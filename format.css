@@ -96,8 +96,40 @@ body
 
 .foot
 {
-    text-align: center;
+    display: flex;
+    margin-top: 1em;
     font-size: 0.8em;
+    background-color: #B0C4DE;
+    border-radius: 0.8em;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+}
+
+.footleft
+{
+    margin-left: 40%;
+}
+
+.footright
+{
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+
+.home
+{
+    display: flex;
+}
+
+.homeright
+{
+    width: 300px;
+    margin: 10px;
+}
+
+.homeright img
+{
+    border: 1px solid black;
 }
 
 .cv

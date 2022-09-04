@@ -23,5 +23,5 @@ Bis heute, stand 2022, habe ich selber nebst PERL noch PHP, HTML, CSS und Javasc
 
 <h3>Geschlechtsindentität</h3>
 <p>Ich bin offiziell noch männlich mit der Name Martin.
-Jedoch in der Freizeit werden meine Freunde michimmer mehr als weiblich ansprechen und ansehen.
+Jedoch in der Freizeit werden meine Freunde mich immer mehr als weiblich ansprechen und ansehen.
 Momentan bin ich noch sehr beschäftigt mit der beruflichen Wandel. Sobald ich mit der neuen Branche stabilisiert habe, werde ich die Hormontheraphie beginnen.</p>
