@@ -1,3 +1,6 @@
+<div class="hometitle">
+    <h2>Herzlich Willkommen!</h2>
+</div>
 <div class="home">
     <div class="homeleft">
         Guten Tag, ich bin Karin Giang.

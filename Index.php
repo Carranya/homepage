@@ -38,12 +38,9 @@
 
 </div>
 
-<div class = "foot">
-    <?php
-        include "foot.php";
-    ?>
-</div>
-
+<?php
+    include "foot.php";
+?>
 
 </body>
 </html>
