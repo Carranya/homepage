@@ -25,7 +25,7 @@ Zum Installieren, führen Sie bitte die Dateien installjap.php oder installengde
 <a href='project/kopfrechnen.zip'><b><u>Kopfrechnen</u></b></a><br>
 <p>Ein Tool zum Kopfrechnen üben für Kinder und Erwachsene.<br>
 4 Stufen einstellbar.<br>
-<i>Aktuelle Version: 1.0</i>
+<i>Aktuelle Version: 1.2</i>
 </p>
 
 <br>
