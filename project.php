@@ -13,6 +13,7 @@ Zum Ausführen der Programme müssen Sie zuerst <b><a href='https://www.apachefr
 <h3>Meine aktuellen Projekte:</h3>
 
 <a href='project/voki.zip'><b><u>Voki (MySQL Version)</u></b></a><br>
+<img src="screenshots/voki.jpg"></img>
 <p>Ein Programm zum Vokabular lernen.<br>
 200 Wörter deutsch/japanisch sowie Demo Version mit 20 Wörter deutsch/englisch sind vorinstalliert.<br>
 Weitere Wörter-Pakete folgen erscheinen in Kürze.<br>
@@ -23,6 +24,7 @@ Zum Installieren, führen Sie bitte die Dateien installjap.php oder installengde
 <br>
 
 <a href='project/kopfrechnen.zip'><b><u>Kopfrechnen</u></b></a><br>
+<img src="screenshots/kopfrechnen.jpg"></img>
 <p>Ein Tool zum Kopfrechnen üben für Kinder und Erwachsene.<br>
 4 Stufen einstellbar.<br>
 <i>Aktuelle Version: 1.2</i>
