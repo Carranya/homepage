@@ -11,6 +11,7 @@ Bisher habe ich PERL, PHP, MySQL, HTML, CSS und Javascript angeeignet.
 <?php
     include "projects/voki.php";
     include "projects/kopfrechnen.php";
+    include "projects/slidepuzzle.php";
 ?>
 
 <h3>GitHub</h3>
