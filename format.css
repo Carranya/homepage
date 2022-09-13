@@ -155,3 +155,8 @@ body
     text-align: center;
     font-size: 0.6em;
 }
+
+.projects img {
+    width: 50%;
+    border: 1px solid black;
+}
