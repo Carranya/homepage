@@ -1,4 +1,4 @@
-<div class="hometitle">
+<div>
     <h2>Herzlich Willkommen!</h2>
 </div>
 <div class="home">
