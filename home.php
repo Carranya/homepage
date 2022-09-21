@@ -1,7 +1,7 @@
 <div id="home">
 
     <h2 id="homeTitle">Herzlich Willkommen!</h2>
-    <img src="Karin2.jpg" id="homePic"></img>
+    <img src="Karin2.jpg" class="showPic"></img>
 
     <p>
     Guten Tag, ich bin Karin Giang.

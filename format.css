@@ -1,12 +1,10 @@
-body
-{
+body{
     font-family: Verdana;
     background-color: #F5FFFA;
     color: black;
 }
 
-.head
-{
+.head{
     font-size: 1.2em;
     background-color: #F0F8FF;
     border-radius: 0.8em;
@@ -16,21 +14,19 @@ body
     text-align: right;
 }
 
-.main
-{
+.main{
     display: flex;
 }
 
-.menu
-{
+.menu{
     width: 15em;;
     background-color: #B0C4DE;
     border-radius: 0.8em;
     margin-right: 1em;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
-.menu a
-{
+
+.menu a{
     display: block;
     color: black;
     text-decoration: none;
@@ -39,15 +35,13 @@ body
     text-align: left;
 }
 
-.menu a:hover
-{
+.menu a:hover{
     background-color: #F0F8FF;
     padding-left: 4em;
     
 }
 
-.content
-{
+.content{
     width: 70%;
     background-color: #F0F8FF;
     border-radius: 0.8em;
@@ -55,8 +49,7 @@ body
     box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 
-.content h2
-{
+.content h2{
     font-size: 1.8em;
     background-color: #B0C4DE;
     border-radius: 0.8em;
@@ -65,8 +58,7 @@ body
     box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 
-.content h3
-{
+.content h3{
     background-color: #B0C4DE;
     border-radius: 0.8em;
     padding: 0.5em;
@@ -74,13 +66,11 @@ body
     box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 
-.content p
-{
+.content {
     padding-left: 0.5em;
 }
 
-.content a
-{
+.content a{
     color: black;
     text-decoration: none;
     /*display: block;*/
@@ -88,14 +78,12 @@ body
     border-radius: 8em;
 }
 
-.content a:hover
-{
+.content a:hover{
     background-color: #B0C4DE;
     width: auto;
 }
 
-.foot
-{
+.foot{
     display: flex;
     margin-top: 1em;
     font-size: 0.8em;
@@ -104,60 +92,26 @@ body
     box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 
-.footleft
-{
+.footleft{
     margin-left: 40%;
 }
 
-.footright
-{
+.footright{
     margin-left: 10px;
     padding-top: 10px;
 }
 
+.footbelow{
+    text-align: center;
+    font-size: 0.6em;
+}
 
-#home
-{
+#home{
     justify-content: space-between;
 }
 
 #homeTitle{
     text-align: center;
-}
-
-#homePic{
-    float: right;
-    border: 1px solid black;
-    width: 300px;
-    margin: 0.3em;
-}
-
-.contact
-{
-    display: flex;
-    justify-content: space-between;
-}
-
-.contactright
-{
-    width: 300px;
-    margin: 10px;
-}
-
-#karinpic
-{
-    border: 1px solid black;
-}
-
-.footbelow
-{
-    text-align: center;
-    font-size: 0.6em;
-}
-
-.projects img {
-    width: 50%;
-    border: 1px solid black;
 }
 
 #homeTech{
@@ -166,4 +120,20 @@ body
 
 #homeTech img{
     width: 100px;
+}
+
+.contact{
+    justify-content: space-between;
+}
+
+.showPic{
+    float: right;
+    border: 1px solid black;
+    width: 300px;
+    margin: 0.3em
+}
+
+.projects img{
+    width: 50%;
+    border: 1px solid black;
 }

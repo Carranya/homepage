@@ -1,9 +1,7 @@
-<div class="contacttitle">
-    <h2>Kontakt</h2>
-</div>
-
 <div class="contact">
-    <div class="contactleft">
+    <h2 id="contactTitle">Kontakt</h2>
+    <img src="karin.jpg" class="showPic" alt="Karin Giang"></img>
+
         <p><b>Adresse:</b><br>
         Karin (Martin) Giang<br>
         Schützenmattstrasse 7<br>
@@ -19,8 +17,5 @@
         Geburtstagsdatum:. 15. Februar 1982<br>
         Zivilstand: verheiratet<br>
         Nationalität: Schweiz / Heimat: Wängi TG</p>
-    </div>
-    <div class="contactright">
-        <img src="karin.jpg" id="karinpic" alt="Karin Giang" width="300"></img>
-    </div>
+
 </div>
