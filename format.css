@@ -116,21 +116,20 @@ body
 }
 
 
-.home
+#home
 {
-    display: flex;
     justify-content: space-between;
 }
 
-.homeright
-{
-    width: 300px;
-    margin: 10px;
+#homeTitle{
+    text-align: center;
 }
 
-.homeright img
-{
+#homePic{
+    float: right;
     border: 1px solid black;
+    width: 300px;
+    margin: 0.3em;
 }
 
 .contact
@@ -159,4 +158,12 @@ body
 .projects img {
     width: 50%;
     border: 1px solid black;
+}
+
+#homeTech{
+    text-align: center;
+}
+
+#homeTech img{
+    width: 100px;
 }
