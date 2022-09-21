@@ -7,13 +7,13 @@
 </head>
 <body>
 
-<div class="head">
+<div id="head">
         Karin Giang
 </div>
 
-<div class="main">
+<div id="main">
 
-    <div class="menu">
+    <div id="menu">
         <p>
         <a href="Index.php">Home</a><br>
         <a href="Index.php?page=project">Projekte</a><br>
@@ -21,7 +21,7 @@
         <a href="Index.php?page=contact">Kontakt</a><br>
     </div>
 
-    <div class="content">
+    <div id="content">
         <?php
 
     require_once("function.php");

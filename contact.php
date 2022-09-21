@@ -1,4 +1,4 @@
-<div class="contact">
+<div id="contact">
     <h2 id="contactTitle">Kontakt</h2>
     <img src="karin.jpg" class="showPic" alt="Karin Giang"></img>
 

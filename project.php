@@ -1,4 +1,4 @@
-<div class="projects">
+<div id="projects">
 <h2>Meine Projekte</h2>
 
 
