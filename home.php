@@ -8,9 +8,9 @@
     <br><br>
     Ich bin eine Hobby Programmiererin und Webdesignerin und möchte meinen Hobby zum Beruf zu machen.
     <br><br>
-    Momentan bin ich auf der Suche einer Firma, die bereit ist,<br>
+    Momentan bin ich auf der Suche einer Firma, die bereit ist, 
     mir den Einstieg in die Informatik Branche zu ermöglichen.
-    Ich habe zwar bisher noch keine Ausbildung im Bereich Informatik absolviert,<br>
+    Ich habe zwar bisher noch keine Ausbildung im Bereich Informatik absolviert, 
     aber ich konnte privat durch Selbststudium das Programmieren von HTML, CSS, PHP, MySQL und Javascript aneignen.
     <br><br>
     In meiner Freizeit programmiere ich sehr gerne und lerne immer neue Techniken und Programmiersprachen kennen.
