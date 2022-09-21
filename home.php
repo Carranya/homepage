@@ -1,7 +1,7 @@
 <div id="home">
 
     <h2 id="homeTitle">Herzlich Willkommen!</h2>
-    <img src="Karin2.jpg" class="showPic"></img>
+    <img src="karin2.jpg" class="showPic"></img>
 
     <p>
     Guten Tag, ich bin Karin Giang.
@@ -15,7 +15,7 @@
     <br><br>
     In meiner Freizeit programmiere ich sehr gerne und lerne immer neue Techniken und Programmiersprachen kennen.
     Bisher habe ich bereits kleine PHP- und Javascript-Tools sowie auch Webpages programmiert. Einige meine Projekte können Sie in meinen 
-    <a href="https://github.com/Carranya" target="_blank"><img src="icons/github.png" width="40" height="40"></img>-Account</a> einsehen.</p>      
+    <a href="https://github.com/Carranya" target="_blank"><b>GitHub Seite</b></a> einsehen.</p>      
     <br><br>
 
     <p id="homeTech">

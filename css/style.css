@@ -1,0 +1,40 @@
+@import "menu.css";
+@import "content.css";
+@import "foot.css";
+@import "home.css";
+
+body{
+    font-family: Verdana;
+    background-color: #F5FFFA;
+    color: black;
+}
+
+#head{
+    font-size: 1.2em;
+    background-color: #F0F8FF;
+    border-radius: 0.8em;
+    padding: 1em;
+    margin-bottom: 1em;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+    text-align: right;
+}
+
+#main{
+    display: flex;
+}
+
+#contact{
+    justify-content: space-between;
+}
+
+.showPic{
+    float: right;
+    border: 1px solid black;
+    width: 300px;
+    margin: 0.3em
+}
+
+#projects img{
+    width: 50%;
+    border: 1px solid black;
+}

@@ -1,0 +1,15 @@
+#home{
+    justify-content: space-between;
+}
+
+#homeTitle{
+    text-align: center;
+}
+
+#homeTech{
+    text-align: center;
+}
+
+#homeTech img{
+    width: 100px;
+}

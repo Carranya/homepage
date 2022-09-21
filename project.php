@@ -7,6 +7,9 @@ Schon seit ich ein Kind war, interessiere ich mich für das Programmieren.<br>
 Bisher habe ich PERL, PHP, MySQL, HTML, CSS und Javascript angeeignet.
 </p>
 
+<h3>GitHub</h3>
+<p>Alle Codes von meinen Projekten sind in meiner <a href='https://github.com/Carranya'><b>GitHub Seite</a></b> einsehbar.</p>
+
 <h3>Meine aktuellen Projekte:</h3>
 <?php
     include "projects/voki.php";
@@ -14,7 +17,4 @@ Bisher habe ich PERL, PHP, MySQL, HTML, CSS und Javascript angeeignet.
     include "projects/slidepuzzle.php";
 ?>
 
-<h3>GitHub</h3>
-
-<p>Alle Codes von meinen Projekten sind in meiner <b><a href='https://github.com/Carranya'>GitHub Seite</a></b> einsehbar.</p>
 </div>
