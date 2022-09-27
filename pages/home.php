@@ -1,7 +1,7 @@
 <div id="home">
 
     <h2 id="homeTitle">Herzlich Willkommen!</h2>
-    <img src="karin2.jpg" class="showPic"></img>
+    <img src="img/karin2.jpg" class="showPic"></img>
 
     <p>
     Guten Tag, ich bin Karin Giang.
@@ -19,11 +19,11 @@
     <br><br>
 
     <p id="homeTech">
-        <img src='icons/tech/html.png'></img>
-        <img src='icons/tech/css.png'></img>
-        <img src='icons/tech/php.png'></img>
-        <img src='icons/tech/mysql.png'></img>
-        <img src='icons/tech/javascript.png'></img>
+        <img src='img/icons/tech/html.png'></img>
+        <img src='img/icons/tech/css.png'></img>
+        <img src='img/icons/tech/php.png'></img>
+        <img src='img/icons/tech/mysql.png'></img>
+        <img src='img/icons/tech/javascript.png'></img>
     </p>
 
 </div>

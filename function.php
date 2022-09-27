@@ -1,6 +1,6 @@
 <?php
     function pages($page)
     {
-        include $page . ".php";
+        include "pages/" . $page . ".php";
     }
 ?>

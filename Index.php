@@ -15,10 +15,11 @@
 
     <div id="menu">
         <p>
-        <a href="Index.php">Home</a><br>
-        <a href="Index.php?page=project">Projekte</a><br>
-        <a href="Index.php?page=about">Über mich</a><br>
-        <a href="Index.php?page=contact">Kontakt</a><br>
+        <a href="index.php">Home</a><br>
+        <a href="index.php?page=project">Projekte</a><br>
+        <a href="index.php?page=websites">Webseiten</a><br>
+        <a href="index.php?page=about">Über mich</a><br>
+        <a href="index.php?page=contact">Kontakt</a><br>
     </div>
 
     <div id="content">
@@ -30,7 +31,7 @@
         pages($_GET['page']);
     }
     else{
-        include "home.php";
+        include "pages/home.php";
     }
 
         ?>
@@ -39,7 +40,7 @@
 </div>
 
 <?php
-    include "foot.php";
+    include "pages/foot.php";
 ?>
 
 </body>
