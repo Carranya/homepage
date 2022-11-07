@@ -3,7 +3,7 @@
         <p>Karin (Martin) Giang<br>
         Schützenmattstrasse 7<br>
         8302 Kloten<br>
-        <img src="icons/phone.png" width="15" height="15"> +41 78 823 67 56</img></p>
+        <img src="img/icons/phone.png" width="15" height="15"> +41 78 823 67 56</img></p>
     </div>
 
     <div id="footright">
