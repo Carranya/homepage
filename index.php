@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <meta charset="utf-8">
-    <title>Karin's Homepage</title>
+    <title>Karin Giang - Webentwicklerin</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -16,9 +16,7 @@
     <div id="menu">
         <p>
         <a href="index.php">Home</a><br>
-        <!-- <a href="index.php?page=project">Projekte</a><br> -->
         <a href="index.php?page=websites">Webseiten</a><br>
-        <a href="index.php?page=about">Über mich</a><br>
         <a href="index.php?page=contact">Kontakt</a><br>
     </div>
 
