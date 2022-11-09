@@ -1,6 +1,6 @@
 <div id="home">
 
-    <h2 id="homeTitle">Herzlich Willkommen!</h2>
+    <h2>Herzlich Willkommen!</h2>
     <img src="img/karin2.jpg" class="showPic"></img>
 
 <p>
@@ -21,5 +21,5 @@ In offiziellen Dokumenten verwende ich noch den männlichen Namen Martin.
 Jedoch in der Freizeit werden meine Freunde mich immer mehr als weiblich ansprechen und ansehen.
 Momentan bin ich noch sehr beschäftigt mit der beruflichen Wandel. Sobald ich mit der neuen Branche stabilisiert habe, werde ich mit der Hormontheraphie beginnen.</p>
 <br>
-<p>Meine offizielle Webseite: <a href="http://www.karingiang.ch" target="_blank"><b><u>Hier klicken</u></b></a>
+<p>Meine offizielle Webseite: <a href="http://www.karingiang.ch" target="_blank">Hier klicken</a></p>
 </div>
