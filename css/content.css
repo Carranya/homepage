@@ -26,8 +26,8 @@
 
 #content a{
     color: black;
+    font-weight: bold;
     text-decoration: none;
-    /*display: block;*/
     padding: 0.5em;
     border-radius: 8em;
 }
