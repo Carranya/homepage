@@ -1,5 +1,6 @@
 @import "menu.css";
 @import "content.css";
+@import "contact.css";
 @import "foot.css";
 @import "websites.css";
 
@@ -21,10 +22,6 @@ body{
 
 #main{
     display: flex;
-}
-
-#contact{
-    justify-content: space-between;
 }
 
 .showPic{
