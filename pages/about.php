@@ -1,4 +1,4 @@
-<div id="about">
+<div>
 
     <h2>Über mich</h2>
     <img src="img/karin2.jpg" class="showPic"></img>
