@@ -17,6 +17,7 @@
         <p>
         <a href="index.php">Home</a><br>
         <a href="index.php?page=websites">Webseiten</a><br>
+        <a href="index.php?page=about">Über mich</a><br>
         <a href="index.php?page=contact">Kontakt</a><br>
     </div>
 
