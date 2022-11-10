@@ -8,7 +8,7 @@
 <body>
 
 <div id="head">
-        Karin Giang
+        Karin Giang - Webentwicklerin
 </div>
 
 <div id="main">
