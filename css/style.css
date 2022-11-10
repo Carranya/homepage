@@ -35,3 +35,8 @@ body{
     width: 50%;
     border: 1px solid black;
 }
+
+.centerPage {
+    display: flex;
+    justify-content: center;
+}
