@@ -8,9 +8,9 @@
 
     <div id="footright">
         <p>
-        <a href="mailto:m.giang82@gmail.com"><img src="img/icons/mail.png" class="footerIcons"></img></a>
-        <a href="https://www.linkedin.com/in/karin-giang-0a6072247"><img src="img/icons/linkedin.png" class="footerIcons"></a>
-        <a href="https://github.com/Carranya"><img src="img/icons/github.png" class="footerIcons"></a>
+        <a href="mailto:karin.giang1982@gmail.com"><img src="img/icons/mail.png" class="footerIcons" title="karin.giang1982@gmail.com"></img></a>
+        <a href="https://www.linkedin.com/in/karin-giang-0a6072247"><img src="img/icons/linkedin.png" class="footerIcons" title="LinkedIn"></a>
+        <a href="https://github.com/Carranya"><img src="img/icons/github.png" class="footerIcons" title="GitHub"></a>
         </p>
     </div>
 </div>
