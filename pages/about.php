@@ -1,7 +1,7 @@
 <div>
 
     <h2>Über mich</h2>
-    <img src="img/karin2.jpg" class="showPic"></img>
+    <img src="img/karin2.jpg" class="showPic" title="Karin Giang">
 
 <p>
 Guten Tag, ich bin Karin Giang.

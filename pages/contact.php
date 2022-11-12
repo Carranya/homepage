@@ -1,6 +1,6 @@
 <div id="contact">
     <h2 id="contactTitle">Kontakt</h2>
-    <img src="img/karin.jpg" class="showPic" alt="Karin Giang"></img>
+    <img src="img/karin.jpg" class="showPic" title="Karin Giang">
     <p><b>Adresse:</b><br>
     Karin (Martin) Giang<br>
     Schützenmattstrasse 7<br>
