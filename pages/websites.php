@@ -12,6 +12,7 @@ Es ist auch mein Hobby, immer wieder neue Ideen für Webseiten zu entwickeln und
             <a href="projects/website_proposal_1/index.php" target="_blank"><img src="img/websites/website_proposal_1.jpg" class="websitesPic"></a>
             <a href="projects/website_proposal_2/index.php" target="_blank"><img src="img/websites/website_proposal_2.jpg" class="websitesPic"></a>
             <a href="projects/website_proposal_3/index.php" target="_blank"><img src="img/websites/website_proposal_3.jpg" class="websitesPic"></a>
+            <a href="projects/website_proposal_4/index.php" target="_blank"><img src="img/websites/website_proposal_4.jpg" class="websitesPic"></a>
         </div>
     </div>
 </div>
