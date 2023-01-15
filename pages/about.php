@@ -12,7 +12,6 @@ Momentan bin ich auf der Suche nach einer Firma, die bereit ist,
 mir den Einstieg in die Informatik Branche zu ermöglichen.
 Ich habe zwar bisher noch keine Ausbildung im Bereich Informatik absolviert, 
 aber ich konnte privat durch Selbststudium das Programmieren von HTML, CSS, PHP, MySQL, Javascript etc. aneignen.
-Näheres dazu finden Sie auf meiner Profil-Seite.
 <br><br>
 In meiner Freizeit programmiere ich sehr gerne und lerne immer neue Techniken und Programmiersprachen kennen.
 Bisher habe ich bereits kleine Webtools sowie auch Webpages programmiert.    
