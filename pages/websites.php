@@ -1,5 +1,5 @@
 <div id="websites">
-    <h2 class="classTitle">Webseiten Vorschläge</h2>
+    <h2 class="classTitle">Webseiten Vorschlägen</h2>
 
 
 <p>
